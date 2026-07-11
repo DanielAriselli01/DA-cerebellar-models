@@ -53,14 +53,6 @@ set( MODULE_SOURCES
 
       eglif_cond_alpha_multisyn.cpp eglif_cond_alpha_multisyn.h
 
-      tracking_neuron_nestml.cpp tracking_neuron_nestml.h
-      custom_stdp_module.cpp custom_stdp_module.h
-      basic_neuron_nestml.cpp basic_neuron_nestml.h
-      diff_neuron_nestml.cpp diff_neuron_nestml.h
-      rb_neuron_nestml.cpp rb_neuron_nestml.h
-      tracking_neuron_planner_nestml.cpp tracking_neuron_planner_nestml.h
-      state_neuron_nestml.cpp state_neuron_nestml.h
-
     )
 
 # 3) We require a header name like this:
